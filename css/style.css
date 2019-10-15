@@ -1,0 +1,78 @@
+/* Stylesheet by Madison for 575*/
+body {
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+#wrapper {
+    width: 100%;
+    margin: auto;
+}
+
+#title {
+    height: 20px;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 14pt;
+}
+
+#credit {
+    height: 20px;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 10pt;
+}
+
+#map {
+    height: 500px;
+    margin: 15px auto;
+}
+
+#slider {
+    width: 70%;
+    margin-top: 2px;
+    display: inline-block;
+    vertical-align: center;
+    align-content: right;
+    text-align: right;
+}
+
+#toggle {
+    width: 20%;
+    margin-top: 5px;
+    display: inline-block;
+    vertical-align: center;
+    align-content: center;
+    text-align: center;
+}
+
+.range-slider {
+    width: 50%;
+}
+
+.range-slider:hover {
+    cursor: pointer;
+}
+
+.buttons {
+    transition-duration: 0.4s;
+    padding: 3px;
+}
+
+.buttons:hover {
+    background-color: white;
+    cursor: pointer;
+}
+
+.toggle {
+    transition-duration: 0.4s;
+    padding: 3px;
+}
+
+.toggle:hover {
+    background-color: white;
+    cursor: pointer;
+}
+
+.active{
+    background: white;
+}

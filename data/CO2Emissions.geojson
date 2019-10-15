@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "1145607",
+        "Tons_1985": "1966553",
+        "Tons_1995": "3320285",
+        "Tons_2005": "5896958",
+        "Tons_2010": "8776040",
+        "Tons_2012": "10028574",
+        "Tons_2013": "10258007",
+        "Tons_2014": "10291927",
+        "Country": "China"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.195396,
+          35.86166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "4406330",
+        "Tons_1985": "4492555",
+        "Tons_1995": "5132920",
+        "Tons_2005": "5789727",
+        "Tons_2010": "5395532",
+        "Tons_2012": "5119436",
+        "Tons_2013": "5159161",
+        "Tons_2014": "5254279",
+        "Country": "United States of America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.712891,
+          37.09024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "252202",
+        "Tons_1985": "426674",
+        "Tons_1995": "811562",
+        "Tons_2005": "1222563",
+        "Tons_2010": "1719691",
+        "Tons_2012": "2018504",
+        "Tons_2013": "2034752",
+        "Tons_2014": "2238377",
+        "Country": "India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.962883,
+          20.593683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "0.001",
+        "Tons_1985": "0.001",
+        "Tons_1995": "1631474",
+        "Tons_2005": "1615090",
+        "Tons_2010": "1670531",
+        "Tons_2012": "1830830",
+        "Tons_2013": "1778561",
+        "Tons_2014": "1705346",
+        "Country": "Russian Federation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.318756,
+          61.52401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "870073",
+        "Tons_1985": "915397",
+        "Tons_1995": "1183447",
+        "Tons_2005": "1239255",
+        "Tons_2010": "1171625",
+        "Tons_2012": "1230168",
+        "Tons_2013": "1246516",
+        "Tons_2014": "1214048",
+        "Country": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.25293,
+          36.204823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "0.001",
+        "Tons_1985": "0.001",
+        "Tons_1995": "864110",
+        "Tons_2005": "797180",
+        "Tons_2010": "758860",
+        "Tons_2012": "739861",
+        "Tons_2013": "757313",
+        "Tons_2014": "719883",
+        "Country": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.451526,
+          51.165691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "0.001",
+        "Tons_1985": "0.001",
+        "Tons_1995": "0.001",
+        "Tons_2005": "468808",
+        "Tons_2010": "573031",
+        "Tons_2012": "611758",
+        "Tons_2013": "619778",
+        "Tons_2014": "649481",
+        "Country": "Iran (Islamic Republic of)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.688046,
+          32.42791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "0.001",
+        "Tons_1985": "0.001",
+        "Tons_1995": "0.001",
+        "Tons_2005": "397642",
+        "Tons_2010": "518492",
+        "Tons_2012": "564843",
+        "Tons_2013": "541048",
+        "Tons_2014": "601047",
+        "Country": "Saudi Arabia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.079163,
+          23.885942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "0.001",
+        "Tons_1985": "0.001",
+        "Tons_1995": "374771",
+        "Tons_2005": "462922",
+        "Tons_2010": "566717",
+        "Tons_2012": "583966",
+        "Tons_2013": "592499",
+        "Tons_2014": "587156",
+        "Country": "Republic of Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.978462,
+          37.663998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "397143",
+        "Tons_1985": "422079",
+        "Tons_1995": "467638",
+        "Tons_2005": "557417",
+        "Tons_2010": "534671",
+        "Tons_2012": "517458",
+        "Tons_2013": "517161",
+        "Tons_2014": "537193",
+        "Country": "Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.346771,
+          56.130367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "0.001",
+        "Tons_1985": "181249",
+        "Tons_1995": "0.001",
+        "Tons_2005": "0.001",
+        "Tons_2010": "419754",
+        "Tons_2012": "470029",
+        "Tons_2013": "503677",
+        "Tons_2014": "529808",
+        "Country": "Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.925282,
+          -14.235004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "185202",
+        "Tons_1985": "324214",
+        "Tons_1995": "362259",
+        "Tons_2005": "416916",
+        "Tons_2010": "474099",
+        "Tons_2012": "468771",
+        "Tons_2013": "466376",
+        "Tons_2014": "489772",
+        "Country": "South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.937506,
+          -30.559483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "164472",
+        "Tons_1985": "288501",
+        "Tons_1995": "332817",
+        "Tons_2005": "466362",
+        "Tons_2010": "464308",
+        "Tons_2012": "496325",
+        "Tons_2013": "490340",
+        "Tons_2014": "480271",
+        "Country": "Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.55788,
+          23.634501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "0.001",
+        "Tons_1985": "0.001",
+        "Tons_1995": "0.001",
+        "Tons_2005": "0.001",
+        "Tons_2010": "428760",
+        "Tons_2012": "637079",
+        "Tons_2013": "490227",
+        "Tons_2014": "464176",
+        "Country": "Indonesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.921326,
+          -0.789275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "603643",
+        "Tons_1985": "559856",
+        "Tons_1995": "538118",
+        "Tons_2005": "542580",
+        "Tons_2010": "493208",
+        "Tons_2012": "468573",
+        "Tons_2013": "458250",
+        "Tons_2014": "419820",
+        "Country": "United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17432,
+          52.355518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "175884",
+        "Tons_1985": "241230",
+        "Tons_1995": "0.001",
+        "Tons_2005": "0.001",
+        "Tons_2010": "0.001",
+        "Tons_2012": "0.001",
+        "Tons_2013": "0.001",
+        "Tons_2014": "0.001",
+        "Country": "Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.775131,
+          -25.274399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "342311",
+        "Tons_1985": "372134",
+        "Tons_1995": "430484",
+        "Tons_2005": "473384",
+        "Tons_2010": "0.001",
+        "Tons_2012": "0.001",
+        "Tons_2013": "0.001",
+        "Tons_2014": "0.001",
+        "Country": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56738,
+          41.871941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "446919",
+        "Tons_1985": "400880",
+        "Tons_1995": "349161",
+        "Tons_2005": "385369",
+        "Tons_2010": "0.001",
+        "Tons_2012": "0.001",
+        "Tons_2013": "0.001",
+        "Tons_2014": "0.001",
+        "Country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.213749,
+          46.227638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "375559",
+        "Tons_1985": "445900",
+        "Tons_1995": "344214",
+        "Tons_2005": "0.001",
+        "Tons_2010": "0.001",
+        "Tons_2012": "0.001",
+        "Tons_2013": "0.001",
+        "Tons_2014": "0.001",
+        "Country": "Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.145136,
+          51.919437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "181645",
+        "Tons_1985": "201234",
+        "Tons_1995": "0.001",
+        "Tons_2005": "0.001",
+        "Tons_2010": "0.001",
+        "Tons_2012": "0.001",
+        "Tons_2013": "0.001",
+        "Tons_2014": "0.001",
+        "Country": "Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74922,
+          40.463669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "0.001",
+        "Tons_1985": "0.001",
+        "Tons_1995": "445944",
+        "Tons_2005": "0.001",
+        "Tons_2010": "0.001",
+        "Tons_2012": "0.001",
+        "Tons_2013": "0.001",
+        "Tons_2014": "0.001",
+        "Country": "Ukraine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.165581,
+          48.379433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "153020",
+        "Tons_1985": "0.001",
+        "Tons_1995": "0.001",
+        "Tons_2005": "0.001",
+        "Tons_2010": "0.001",
+        "Tons_2012": "0.001",
+        "Tons_2013": "0.001",
+        "Tons_2014": "0.001",
+        "Country": "Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.291266,
+          52.132633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Tons_1975": "162257",
+        "Tons_1985": "194344",
+        "Tons_1995": "0.001",
+        "Tons_2005": "0.001",
+        "Tons_2010": "0.001",
+        "Tons_2012": "0.001",
+        "Tons_2013": "0.001",
+        "Tons_2014": "0.001",
+        "Country": "Romania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9668,
+          45.9432
+        ]
+      }
+    }
+  ]
+}
